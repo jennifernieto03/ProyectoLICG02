@@ -16,8 +16,6 @@ NP220636
 RT221663
 TA220649
 
-Link de el Notion:
-https://www.notion.so/Proyecto-de-C-tedra-LIC-01T-666329c1571645b8b1cbe99e50f5919a?pvs=4
 
 Link de los diseños de Mockup en Framer: 
 https://framer.com/projects/Mockup-Hotel-Solaris--0b2e8sqPXLfMFDskateb-jca5q
