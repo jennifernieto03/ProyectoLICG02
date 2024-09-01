@@ -24,3 +24,7 @@ https://framer.com/projects/Mockup-Hotel-Solaris--0b2e8sqPXLfMFDskateb-jca5q
 
 Link de la licencia Creative Commons CC BY-NC-ND (Reconocimiento - No Comercial - Sin Obras Derivadas): 
 https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Link de Trello:
+https://trello.com/invite/66d3e26b2be284493b0e589f/ATTI5f67a996cf49dff5df8075524fe30d91A6DC7E00
+
