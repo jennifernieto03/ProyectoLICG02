@@ -1,4 +1,3 @@
-<<<<<<< Gabriel-Tobar
 # ProyectoLICG02
 =======
 Grupo: 02
