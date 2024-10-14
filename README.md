@@ -1,8 +1,6 @@
 <<<<<<< Gabriel-Tobar
 # ProyectoLICG02
 =======
-# ProyectoLICG02
-
 Grupo: 02
 
 Integrantes:
